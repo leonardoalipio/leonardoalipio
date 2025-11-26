@@ -1,21 +1,18 @@
-# Bem Vindos ao meu repositório!
+# Welcome to my repository!
 
-Olá! Sou desenvolvedor web, 
-- 🔭 Atualmente trabalho com C#, Asp.Net Core Mvc e WebApi e um pouco de Sql Server.
-- 🌱 Estou aprendendo Vue.Js com Typescript usando minhas Api em .Net mesmo, pretendo começar a aprender GraphQL pra  usar no lugar das Api's Rest.
-- 💬 Gosto de resolver problemas sempre com o objetivo de evoluir na área de programação e desenvolvimento web.
+- 🔭 I'm a full-stack developer focused on the .NET ecosystem. I build robust web applications using ASP.NET Core MVC, WebApi, and C#, aiming for clean, predictable, and maintainable code. 
+- 🌱 Right now I'm learning React.js + TypeScript, and preparing to dive into GraphQL and gRPC, since REST works — but some systems demand more flexibility.
+- 💬 I like breaking down problems and assembling solutions that are simple, objective, and functional.
 
-# Minhas Ferramentas 
+# Skills 
 ### Frontend
-	* HTML, CSS – Bootstrap
-	* Javasript – Node.Js, Vue.js, Typescript, Promises, RestFul API
-	* HTTP
+	* advanced knowledge HTML, CSS – Bootstrap, Material UI
+	* knowledge Javasript – Node.Js, React.js, Typescript, DOM manipulation
+	* advanced knowledge HTTP
 ### Backend
-	* .NET C# 
-	* ASP.NET Core – MVC, WebApi
-	* Entity Framework Core – Code-First, Migrations, Linq, DbContext, Sql
-	* Sql Server - Básico
-	* Sistemas Operacionais – Windows 7/8/10, Linux
+	* advanced knowledge .NET and C# ecosystem, including: ASP.NET Core MVC, WebApi, Dapper, Entity Framework Core, Migrations
+	* advanced knowledge Sql - complex queries, store procedures, jobs
+	* OS – Windows and Linux
 
 <!--
 **leonardoalipio/leonardoalipio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
